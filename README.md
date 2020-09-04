@@ -5,8 +5,14 @@ The Flask Mega-Tutorial, by Miguel Grinberg - Available on https://blog.miguelgr
 ## Setting virtualenv
 
 Create de virtual enviroment:
-    python -m venv venv 
-then active with: 
+```bash
+    python -m venv venv
+```
+then active with:
+```bash
     source venv/Scripts/activate
+```
 then install packages:
+```bash
     pip install -r requirements.txt
+```
