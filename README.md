@@ -16,3 +16,10 @@ then install packages:
 ```bash
     pip install -r requirements.txt
 ```
+
+.flaskenv automatically imports flask's environment variables. To run with debug mode on, justa run:
+```bash
+    flask run
+```
+
+
