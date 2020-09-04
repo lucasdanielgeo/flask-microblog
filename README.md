@@ -8,7 +8,7 @@ Create de virtual enviroment:
 ```bash
     python -m venv venv
 ```
-then active with:
+then activate with:
 ```bash
     source venv/Scripts/activate
 ```
