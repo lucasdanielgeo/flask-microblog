@@ -21,5 +21,5 @@ then install packages:
 ```bash
     flask run
 ```
-
-
+Or do it:
+python -m venv venv && source venv/Scripts/activate && pip install -r requirements.txt
