@@ -2,7 +2,7 @@
 
 The Flask Mega-Tutorial, by Miguel Grinberg - Available on [Miguel Grinberg's Blog](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
-## Setting virtualenv
+## Setting virtualenv on bash terminal
 
 Create de virtual enviroment:
 ```bash
@@ -22,4 +22,7 @@ then install packages:
     flask run
 ```
 Or do it:
+
+```bash
 python -m venv venv && source venv/Scripts/activate && pip install -r requirements.txt
+```
