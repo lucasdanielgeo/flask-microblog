@@ -3,3 +3,4 @@ Flask-WTF>=0.14.3
 python-dotenv
 flask-sqlalchemy
 flask-migrate
+flask-login
